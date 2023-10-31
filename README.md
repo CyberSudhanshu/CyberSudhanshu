@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshucyber" alt="sudhanshucyber"/></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anshu" target="blank"><img src="https://img.shields.io/twitter/follow/anshu?logo=twitter&style=for-the-badge" alt="anshu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SudhanshuVidya1" target="blank"><img src="https://img.shields.io/twitter/follow/anshu?logo=twitter&style=for-the-badge" alt="anshu" /></a> </p>
 
 - 🔭 I’m currently working on **bidcard**
 
