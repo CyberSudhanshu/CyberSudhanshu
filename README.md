@@ -30,7 +30,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-profile <a href="https://www.freepik.com/free-psd/3d-illustration-person-with-sunglasses_27470334.htm#query=3d%20ai%20profile%20icon%20039&position=2&from_view=search&track=ais">Freepik</a>
+profile <img href="https://www.freepik.com/free-psd/3d-illustration-person-with-sunglasses_27470334.htm#query=3d%20ai%20profile%20icon%20039&position=2&from_view=search&track=ais"><p>Freepik</p>
 <p align="left">
 <a href="https://twitter.com/SudhanshuVidya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshu" height="30" width="40" /></a>
 <a href="/https://rss.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com" height="30" width="40" /></a>
