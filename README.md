@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sudhanshucyber/Myportfolio.git](https://github.com/Sudhanshucyber/Myportfolio.git)
 
-- 📝 I regularly write articles on [myblog](myblog)
+- 📝 I regularly write articles on [myblog](https://github.com/Sudhanshucyber)
 
 - 💬 Ask me about **HTML5,CSS3,JS,PHP,PYTHON,C++**
 
