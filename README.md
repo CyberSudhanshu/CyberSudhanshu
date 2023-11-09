@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN,.NET MUVI**
 
-- 🤝 I’m looking for help with [e-voting](evote-sandy.vercel.app)
+- 🤝 I’m looking for help with [e-voting](Sudhanshucyber/onlinevotingsys)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sudhanshucyber/Myportfolio.git](https://github.com/Sudhanshucyber/Myportfolio.git)
 
