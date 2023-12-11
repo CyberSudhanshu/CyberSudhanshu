@@ -30,7 +30,7 @@ Feel free to reach out to me if you're interested in discussing potential opport
 - 👨‍💻 All of my projects are available at [https://github.com/Sudhanshucyber/Myportfolio.git](https://github.com/Sudhanshucyber/Myportfolio.git)
 
 -  I regularly write articles on
--<p> <a href="https://t.co/gODatE9BxG" alt="_blanck">📝Myblog</a><\p>
+-   <a href="https://t.co/gODatE9BxG" alt="_blanck">📝Myblog</a>
 
 - 💬 Ask me about
 -  html5 
