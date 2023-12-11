@@ -1,7 +1,7 @@
 <h1 align="center">Hi Welcome to My Coding Universe!  👋,</h1>
   </h2>I'm <b>Sudhanshu Vidyarthi</b> a final year<i> B.Tech</i> student with a passion for all things tech! My academic journey revolves around Computer Science, but my interests span across diverse domains like web development, iOS app development, and cybersecurity. 🚀</h2>
 <h4 align="center">👨‍💻 A passionate frontend  and backend developer, </h4>
-<h1>>📚 About Me 📚</h1>
+<h1>📚 -> About Me 📚</h1>
 <h5
 📖 I'm currently a final year Computer Science student, soon to embark on my professional journey in the world of software engineering. 🎓
 💻 My heart beats for coding, and my fingers dance across the keyboard to craft digital masterpieces. I'm fluent in a variety of programming languages, including HTML, CSS, PHP, Python, JavaScript, and C++. 🧑‍💻
