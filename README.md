@@ -31,15 +31,15 @@ Feel free to reach out to me if you're interested in discussing potential opport
 
 -  I regularly write articles on
 -   <a href="https://t.co/gODatE9BxG" alt="_blanck">📝Myblog</a>
-
-- 💬 MY Skills :-
--  html5 
--  CSS3(bootstrap)
--  JS
--  PHP
--  PYTHON
--  C++
--  c#
+   <h1><- 💬 MY Skills :-</h1>
+    HTML
+    CSS
+    PHP
+    Python
+    JavaScript
+    MERN Stack
+    MySQL
+    C++
 
 - 📫 How to reach me **allenone.up@gmail.com**
 
