@@ -44,13 +44,18 @@ Feel free to reach out to me if you're interested in discussing potential opport
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mrsid" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mrsid?trk=profile-badge">Er. sudhanshu vidyarthi</a></div>
-              
-profile <img href="https://www.freepik.com/free-psd/3d-illustration-person-with-sunglasses_27470334.htm#query=3d%20ai%20profile%20icon%20039&position=2&from_view=search&track=ais"><p>Freepik</p>
-<p align="left">
-<a href="https://twitter.com/SudhanshuVidya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshu" height="30" width="40" /></a>
-<a href="/https://rss.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com" height="30" width="40" /></a>
+<h3 align="left">📧 Contact Me 📧</h3>
+
+<div class="eamil">
+📬 Email: sudhanshu.vidyarthi@example.com</div>
+<div class ="linkdin">
+📱 LinkedIn: Connect with me</div>
+<div class ="twitter">
+🐦 Twitter: @SudhanshuDev</div>
+🌐 Visit My Portfolio 🌐
+
+Check out my projects and code on GitHub
+🔗 Let's build the future of technology together! 🚀🌏✨
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
