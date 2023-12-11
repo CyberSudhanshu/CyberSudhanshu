@@ -16,6 +16,8 @@ Feel free to reach out to me if you're interested in discussing potential opport
 
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/104724655?v=4" alt="torget" style=for-the-badge" height="40px"width="40"/>Sudhanshucyber </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshucyber&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshucyber" /> </p>
+
 <p align="left"> <a href="https://twitter.com/SudhanshuVidya1" target="blank"><img src="https://img.shields.io/twitter/follow/anshu?logo=twitter&style=for-the-badge" alt="anshu" /></a> </p>
 
 - 🔭 I’m currently working on **bidcard**
