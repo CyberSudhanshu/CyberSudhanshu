@@ -38,7 +38,7 @@ Feel free to reach out to me if you're interested in discussing potential opport
    <li>MERN Stack</li> 
     <li>MySQL</li>
    <li>C++</li> 
-    <li>C++</li>
+    <li>C#</li>
      </ol>
 
 - 📫 How to reach me **allenone.up@gmail.com**
