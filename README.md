@@ -32,7 +32,7 @@ Feel free to reach out to me if you're interested in discussing potential opport
 -  I regularly write articles on
 -   <a href="https://t.co/gODatE9BxG" alt="_blanck">📝Myblog</a>
 
-- 💬 Ask me about
+- 💬 MY Skills :-
 -  html5 
 -  CSS3(bootstrap)
 -  JS
