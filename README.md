@@ -1,5 +1,5 @@
 <h1 align="center">Hi Welcome to My Coding Universe!  👋,</h1>
-  </h3>I'm Sudhanshu vidyarthi a final year B.Tech student with a passion for all things tech! My academic journey revolves around Computer Science, but my interests span across diverse domains like web development, iOS app development, and cybersecurity. 🚀</h3>
+  </h3>I'm <span>Sudhanshu Vidyarthi</span> a final year B.Tech student with a passion for all things tech! My academic journey revolves around Computer Science, but my interests span across diverse domains like web development, iOS app development, and cybersecurity. 🚀</h3>
 <h3 align="center">👨‍💻 A passionate frontend  and backend developer, </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshucyber&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshucyber" /> </p>
