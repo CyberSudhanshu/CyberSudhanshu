@@ -29,14 +29,17 @@ Feel free to reach out to me if you're interested in discussing potential opport
 -  I regularly write articles on
 -   <a href="https://t.co/gODatE9BxG" alt="_blanck">📝Myblog</a>
    <h1><- 💬 MY Skills :-</h1>
-    HTML
-    CSS
-    PHP
-    Python
-    JavaScript
-    MERN Stack
-    MySQL
-    C++
+     <ol type="1">
+    <li>HTML</li>
+   <li> CSS</li>
+   <li>PHP</li> 
+   <li>Python</li> 
+    <li>JavaScript</li>
+   <li>MERN Stack</li> 
+    <li>MySQL</li>
+   <li>C++</li> 
+    <li>C++</li>
+     </ol>
 
 - 📫 How to reach me **allenone.up@gmail.com**
 
