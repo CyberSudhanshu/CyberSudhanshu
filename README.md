@@ -15,7 +15,7 @@ Feel free to reach out to me if you're interested in discussing potential opport
 </h5>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshucyber&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshucyber" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshucyber&label=Profile%20views&color=0e75b6&style="flat" alt="sudhanshucyber" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://evote-sandy.vercel.app/" alt="sudhanshucyber"/></a> </p>
 
