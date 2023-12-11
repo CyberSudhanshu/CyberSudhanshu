@@ -14,7 +14,7 @@
 Feel free to reach out to me if you're interested in discussing potential opportunities, or collaborations, or just want to chat about the latest in tech. Let's connect and create something awesome together! 🚀🌟
 </h5>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/104724655?v=4" alt="sudhanshucyber" height="40px"width="40"/>Sudhanshucyber </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/104724655?v=4" alt="torget" height="40px"width="40"/>Sudhanshucyber </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://evote-sandy.vercel.app/" alt="sudhanshucyber"/></a> </p>
 
