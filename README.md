@@ -45,7 +45,7 @@ Feel free to reach out to me if you're interested in discussing potential opport
 
 - 📫 How to reach me **allenone.up@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/CyberSudhanshu](https://github.com/Resume)
+- 📄 Know about my experiences and resume [https://github.com/CyberSudhanshu](https://github.com/Resume/git)
 
 - ⚡ Fun fact **i think i am bit funny**
 
