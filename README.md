@@ -26,7 +26,7 @@ Feel free to reach out to me if you're interested in discussing potential opport
 
 - 🤝 I’m looking for help with [e-voting](Sudhanshucyber/onlinevotingsys)
 
-- 👨‍💻 All of my projects are available at [portfolio-eight-sooty-77.vercel.app](portfolio-eight-sooty-77.vercel.app)
+- 👨‍💻 All of my projects are available at [https://github.com/cyberSudhanshu](https://github.com/cyberSudhanshu)
 
 -  I regularly write articles on
 -   <a href="https://t.co/gODatE9BxG" alt="_blanck">📝Myblog</a>
