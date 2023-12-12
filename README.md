@@ -14,9 +14,9 @@
 Feel free to reach out to me if you're interested in discussing potential opportunities, or collaborations, or just want to chat about the latest in tech. Let's connect and create something awesome together! 🚀🌟
 </h5>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/104724655?v=4" alt="torget" style=for-the-badge" height="40px"width="40"/>Sudhanshucyber </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/104724655?v=4" alt="torget" style=for-the-badge" height="40px"width="40"/>CyberSudhanshu </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshucyber&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshucyber" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberSudhanshu&label=Profile%20views&color=0e75b6&style=flat" alt="CyberSudhanshu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/SudhanshuVidya1" target="blank"><img src="https://img.shields.io/twitter/follow/anshu?logo=twitter&style=for-the-badge" alt="anshu" /></a> </p>
 
@@ -70,11 +70,11 @@ Check out my projects and code on GitHub
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhanshucyber&show_icons=true&locale=en&layout=compact" alt="sudhanshucyber" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CyberSudhanshu&show_icons=true&locale=en&layout=compact" alt="CyberSudhanshu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhanshucyber&show_icons=true&locale=en" alt="sudhanshucyber" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CyberSudhanshu&show_icons=true&locale=en" alt="sudhanshucyber" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshucyber&" alt="sudhanshucyber" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberSudhanshu&" alt="CyberSudhanshu" /></p>
 
 Support 🙏
 
