@@ -55,8 +55,8 @@ Feel free to reach out to me if you're interested in discussing potential opport
 
 <h3 align="left">📧 Contact Me 📧</h3>
 
-<div class="eamil">
-📬 Email: sudhanshu.vidyarthi@example.com</div>
+<div class="eamil"><a href ="allenone.up@gmail.com">
+📬 Email: allenone.up@gmail.com</a></div>
 <div class ="linkdin">
 📱 LinkedIn: Connect with me</div>
 <div class ="twitter">
